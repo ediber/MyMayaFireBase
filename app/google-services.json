@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "122306802125",
+    "firebase_url": "https://groceries-87b27.firebaseio.com",
+    "project_id": "groceries-87b27",
+    "storage_bucket": "groceries-87b27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122306802125:android:a2000288835bbb04bdd484",
+        "android_client_info": {
+          "package_name": "com.mymayafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122306802125-ch42q5b2uqoda7bgsvtbq9c6ueu5euhb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mymayafirebase",
+            "certificate_hash": "0650678be089d211c53890e2e645560e49fd8816"
+          }
+        },
+        {
+          "client_id": "122306802125-sf865dc9vj652tk2od6neept4oupog8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU6AL6ZAeWYl6-1MG7Kezo9LhiYSOJIcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122306802125-sf865dc9vj652tk2od6neept4oupog8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
